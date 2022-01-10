@@ -6,4 +6,9 @@ file 2-0
 To fix the bug 1
 
 
+<<<<<<< HEAD
 ///Change for Master teammatews
+=======
+
+Writing for Rebase CR2
+>>>>>>> 76fae38 (CR2:Changes for cr2 updated)
